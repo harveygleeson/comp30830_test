@@ -3,4 +3,6 @@ channels:
   - defaults
 dependencies:
   - python
+  - numpy
+  - pandas
 prefix: /Users/harveygleeson/opt/anaconda3/envs/comp30830
